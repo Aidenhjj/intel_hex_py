@@ -1,0 +1,10 @@
+*.pyc
+*$py.class
+.coverage
+coverage.xml
+.cache
+.tox
+__pycache__
+.pytest_cache/
+results.xml
+tests/htmlcov/

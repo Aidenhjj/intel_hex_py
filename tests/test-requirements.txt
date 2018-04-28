@@ -1,0 +1,12 @@
+# Requirements for unit tests
+pytest
+pytest-cov
+pytest-xdist
+
+# Requirements for building docs
+sphinx
+
+# Requirements for linting
+flake8
+hacking
+pylint
